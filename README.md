@@ -56,19 +56,17 @@ Her is the [link](https://drive.google.com/file/d/1xh47FwwOMpxfk5zjcaeGJKoDcndRE
 - **Prerequisites:**
   - Android
   - Internet Connection
-  - GPS/Location
 
 - **Installation:**
   - Download the .apk file
-  - Install the app and happy using
+  - install and let look for poisonous plants.
 
-## Features of iFiCam APP
+## Features of Will Nest APP
 
-- Detect fish species predictions using camera
-- Provides detailed information on the types of fish predicted (description and nutrition)
-- Give some reccomenders about recipes of fish food
-- All user can upload story about fish for sale in the market
-- Track the story position with google maps
+- detection of a poisonous plant using camera
+- insert a picture of a poisonous plant from the gallery
+- Provides all detailed information on types of poisonous plants including treatment methods and the effects of these plants
+
 
 ## Repository Branches
 
@@ -85,5 +83,5 @@ In our project is divided into four branches:
 | Desi Agustrianti   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desi-agustrianti-5b1952216/)  |
 | Yayang Dimas Saputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yayang-dimas-saputra-986774280/)  |
 | Rio Ferdinand Situmeang  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rioferdinandsitumeang/)  |
-| Mahmubin Haibah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Mahmubin Haibah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmubin-haibah-2a8111295/)  |
 | Royhan  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royhan2004/)  |
