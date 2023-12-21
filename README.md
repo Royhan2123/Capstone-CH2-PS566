@@ -83,7 +83,7 @@ In our project is divided into four branches:
 |-------|----------|
 | Johansen Sagala   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johansen-sagala-660bba266/) |
 | Desi Agustrianti   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desi-agustrianti-5b1952216/)  |
-| Yayang Dimas Saputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](htpps://www.linkedin.com/in/yayang-dimas-saputra-986774280)  |
+| Yayang Dimas Saputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yayang-dimas-saputra-986774280/)  |
 | Rio Ferdinand Situmeang  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rioferdinandsitumeang/)  |
 | Mahmubin Haibah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Royhan  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royhan2004/)  |
