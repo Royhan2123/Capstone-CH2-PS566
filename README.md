@@ -12,14 +12,14 @@
 ## Wild NEST
 
 <p align="center">
-  <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/overview.png" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="https://github.com/Royhan2123/Capstone-CH2-PS566/blob/main/overview.JPG" alt="Deskripsi Gambar" style="width:100%;">
 </p>
 
-iFiCam (identify of fish with camera) is an application that detects 10 types of fish commonly consumed by the public. iFiCam will provide accurate predictions regarding detailed information on the detected fish. Equipped with a recommendation feature that gives you fish recipes. Ificam as a medium for sharing information from several users regarding the sale of fish available around the residence via gmaps.
+The Wild Nest app aims to increase understanding of the positive and negative impacts of poisonous plants. We facilitate the identification of poisonous plants through image scanning, provide full descriptions, and information on their utilization for medicinal purposes. Our goal is to preserve the knowledge of future generations about the civilization of certain poisonous plants. By providing educational resources, we seek to promote the wise use of poisonous plants, ensure safe use, and preserve knowledge for the future.
 
 ## Download Link
 
-Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0SgA5a/view?usp=sharing) of iFiCam App 
+Her is the [link](https://drive.google.com/file/d/1xh47FwwOMpxfk5zjcaeGJKoDcndRERbA/view?usp=sharing) of Wild Nest App 
 
 ## About Project
 <div align="center">
@@ -34,25 +34,22 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
   - TensorFlow
   - Google Colab
   - Roboflow
+  - Android Studio
+  - VSC
 
 - **Mobile Development:**
   - Figma
   - Android Studio
   - Kotlin
-  - Google Maps
   - Firebase
+  - Model tfLite
 
 - **Cloud Computing:**
   - Google Cloud Run
-  - Firestore
-  - Docker
-  - Express.js
-
-## Architekture Overview
-
-<p align="center">
-  <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/arsitektur.jpeg" alt="Deskripsi Gambar" style="width:100%;">
-</p>
+  - Google Cloud Storage
+  - Firebase
+  - express js
+  - docker
 
 ## Getting Started
 
@@ -76,17 +73,17 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
 ## Repository Branches
 
 In our project is divided into four branches:
-  - [Machine Learning](https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/tree/MachineLearning)
-  - [Cloud Computing](https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/tree/Cloud-Computing)
-  - [Mobile Development](https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/tree/mobile-development)
+  - [Machine Learning](https://github.com/johansensagala/ml-project)
+  - [Cloud Computing](https://github.com/riokeren/wildnest-cc)
+  - [Mobile Development](https://github.com/Royhan2123/WILD-NEST)
 
 ## Contact
 
 | Nama  | LinkedIn |
 |-------|----------|
-| Azvadennys Vasiguhamiaz  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azvadennys-vasiguhamiaz/)  |
-| Salsabilla Adisty  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salsabilla-adisty-180685218/)  |
-| Rahmita Dwi Kurnia  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmita-dwi/)  |
-| Muhammad Zaki Hamdani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-hamdani-b1b8541b9/)  |
-| Hanif Amar Muzakki  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-muzakki-48892a169/)  |
-| Ardhani Ahlan  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhani-ahlan-5a1312170/)  |
+| Johansen Sagala   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johansen-sagala-660bba266/) |
+| Desi Agustrianti   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desi-agustrianti-5b1952216/)  |
+| Yayang Dimas Saputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yayang-dimas-saputra-986774280)  |
+| Rio Ferdinand Situmeang  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rioferdinandsitumeang/)  |
+| Mahmubin Haibah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Royhan  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royhan2004/)  |
