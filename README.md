@@ -23,7 +23,7 @@ Her is the [link](https://drive.google.com/file/d/1xh47FwwOMpxfk5zjcaeGJKoDcndRE
 
 ## About Project
 <div align="center">
-  <video src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/assets/71117133/bd7b0490-0839-40cf-bd53-8d95371f08d9" width="400" />
+  <video src="https://github.com/Royhan2123/Capstone-CH2-PS566/assets/121564375/3016dc23-7bcb-4e05-8528-e5da802e6073" width="400" />
 </div>
 
 
